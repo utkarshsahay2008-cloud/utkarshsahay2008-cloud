@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Utkarsh Sahay
 
-### 💻 CS Student • AI & Full-Stack Developer • Hackathon Builder 🚀
+### 💻 CS Student • AI & Full-Stack Developer 
 
 I’m a Computer Science Engineering student who enjoys **building things, experimenting with AI, and turning ideas into real-world products.**
 
