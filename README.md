@@ -1,4 +1,3 @@
-# https-github.com-utkarshsahay2008-cloud
 # 👋 Hey, I'm Utkarsh Sahay
 
 ### 💻 CS Student • AI & Full-Stack Developer • Hackathon Builder 🚀
