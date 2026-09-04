@@ -53,7 +53,6 @@ Currently exploring the intersection of **AI 🤖 + Web 🌐 + Cloud ☁️**
 
 Detects AI-generated images and provides prediction, confidence and analysis.
 
-🔗 **[Live Demo](https://deeptrust-nine.vercel.app/)**
 
 ---
 
